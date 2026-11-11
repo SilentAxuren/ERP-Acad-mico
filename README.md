@@ -1,24 +1,11 @@
-# A.F.A.S.P. - Sistema ERP / DSS para Floricultura 🌸📊
+# A.F.A.S.P. - Sistema ERP / DSS para Floricultura 🌸
 
-[![Pontificia Universidad Católica del Ecuador](https://img.shields.io/badge/PUCE-Fundamentos_de_Sistemas_de_la_Informaci%C3%B3n-blue)](https://www.puce.edu.ec/)
-[![Status](https://img.shields.io/badge/Proyecto-Final-green)](#)}
 
 **A.F.A.S.P.** es un sistema integral de gestión agrícola y empresarial diseñado para optimizar los procesos operativos, predictivos y administrativos de la florícola **P.S.T.** 
 
-![Texto alternativo](https://gemini.google.com/6a0d69d1-74c8-4f78-b06b-23a03b5d1262)
----
+ <img width="1024" height="572" alt="6a0d69d1-74c8-4f78-b06b-23a03b5d1262 (1)" src="https://github.com/user-attachments/assets/e5375f9f-29dc-49e2-b2a1-f33caff49428" />
+Imagen Prototipo
 
-## 👥 Integrantes del Proyecto
-
-* **Jessica Basantes**
-* **Andrés Illanes**
-* **Madeleyne Garnica**
-
-**Institución:** Pontificia Universidad Católica del Ecuador (PUCE)  
-**Materia:** Fundamentos de Sistemas de la Información  
-**Proyecto:** Sistema para Floricultura  
-
----
 
 ## 🎯 Problemática y Enfoque
 
